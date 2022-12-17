@@ -3,5 +3,8 @@
   "private": "true",
   "scripts": {
     "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "@rails/webpacker": "5.4.3"
   }
 }
